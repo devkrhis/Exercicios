@@ -51,6 +51,11 @@ nav a:hover {
     
 }
 
+.itens {
+    margin: 20px 90px;
+    font-weight: bold;
+}
+
 p {
     text-align: center;
     
@@ -72,6 +77,7 @@ em strong{
 .beneficios {
     background-color: #FFFFFF;
     padding: 20px;
+    font-weight: bold;
 }
 
 h2 {
