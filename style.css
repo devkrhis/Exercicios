@@ -254,6 +254,6 @@ img ~ p {
     background: yellow;
 }
 
-.principal p:not (#missao) {
+.principal p:not(#missao) {
     background:orange;
 }
